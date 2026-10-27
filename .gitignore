@@ -1,0 +1,3 @@
+# Build output (rebuilt by tools/build-pc.ps1 and tools/build-ps5-native.sh)
+build/
+dist/
